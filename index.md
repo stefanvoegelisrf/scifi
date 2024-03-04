@@ -2,13 +2,17 @@
 
 - Bettina Minder und Ute Klotz
 
-## 19.2.2023
+## 19.2.2023 - Intro
 
 ### What is speculative fiction?
 
 ### What is science fiction?
 
-## 4.3.2023
+## 26.2.2023 - Robots
+
+TODO: add robot content
+
+## 4.3.2023 - Smart Toys
 
 ### Excercise: Writing opening lines
 - "Das stimmt überhaupt nicht, ich kann es nicht glauben, welche Worte du mir in den Mund legst.", antwortete er.
