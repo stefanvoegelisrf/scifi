@@ -49,3 +49,22 @@
 ### Developing ideas
 - Great stories often star t with a question. The same is true for chapters and scenes. A novel is the sum total of a series of questions and answers.
 - If there are boring bits in your story, you simply have to work your imagination harder. You must find a way of introducing drama into the situation.
+
+
+### Topic: Music Consumption with AI
+- Companies that have monopolized music generation using subliminal messages to gain influence
+- Seeing a street musician, but then you can change how you hear it
+  - Like improving the playing style or correcting the lyrics
+- Using AI to censor music
+  - Like in the concert where James Hype was not allowed to have swearwords in his songs in china, where you have a system that automatically recognizes the music and then censors it
+- Taking music monopolies to the max
+  - Small musicians are not able to make money anymore and no new talents emerge as music is always generated
+  - Old very successful musicians only earn money anymore
+- Music recycling of old melodies
+  - A small set of songs get recycled over and over again, people forget that you can make music yourself
+- Completely personalized music listening experience
+  - Connected to emotion, music can adjust your emotion or have very specific effect on yourself
+  - Only generated music
+  - People go to festivals but they all hear different music and artists
+- Music taste transforms so that AI music is liked more than normal music
+  - AI music gets really whacky as it is also recycled AI music
